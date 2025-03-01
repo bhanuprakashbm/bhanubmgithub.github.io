@@ -5,5 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-Today is the day i learned github
-It includes steps for github
+today iam chaning the readme file 01-03-2025
